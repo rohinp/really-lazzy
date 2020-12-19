@@ -4,7 +4,7 @@ Really lazy library is an attempt to create haskell like lazy collections in sca
 
 Implemented lazy data structures are as bellow
 1. ConsList
-2. <!- WIP ->
+2. WIP
 
 Goals so far
 1. Add more data structures, will appear in the list above
